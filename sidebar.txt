@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mux:home|Door43 (mux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mux|d43-mux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mux/archive/master.zip|d43-mux.zip]]
+
+**Recent Changes**
+{{changes>ns = mux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mux|Ethnologue data]]
+
